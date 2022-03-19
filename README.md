@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nikalo-Flamel
+- 👋 Hi, I’m @ThisaraKavinda
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java, js, C++
 - 💞️ I’m looking to collaborate on beginner level coding projects
